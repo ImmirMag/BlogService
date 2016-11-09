@@ -1,0 +1,27 @@
+.body{margin: 0;}
+
+.header{
+background: gray;
+color: white;
+padding: 3px;
+font-family:"Comic Sans MS";
+}
+
+
+.sidebar{
+border: solid 1px black;
+font-family:"DejaVu Sans";
+float: left;
+padding: 6px;
+}
+
+.content{
+border: solid 1px black;
+float: left;
+width: 80%;
+}
+
+.footer{
+border: solid 10px black;
+background: blue;
+}
